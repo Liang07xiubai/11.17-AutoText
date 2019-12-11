@@ -1,3 +1,4 @@
 e should smile and blieve ourselives everday!
 This is information of branch on master.
-This is information of branch on branch3.
+This is information of branch on branch.
+这是master分支上的内容！
