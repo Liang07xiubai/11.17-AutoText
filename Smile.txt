@@ -1,2 +1,4 @@
 We should smile and blieve ourselives everday!
 In my opinion,I think so.--branch1
+This is information of branch on branch1.
+
