@@ -1,5 +1,7 @@
-We should smile and blieve ourselives everday!
+e should smile and blieve ourselives everday!
 This is information of branch on master.
 This is information of branch o branch.
 这是master分支上的内容！,This is information of branch on branch3.
 这是branch3分支上的内！
+version1
+
